@@ -2,7 +2,7 @@
 
 </p>
 <h1 align="center">
-<!--     <img alt="Bateria" title="" src="./assets/img/Loading_Spinner.gif" /> -->
+    <img alt="Bateria" title="" src="./assets/img/Square-to-Circle.gif" />
 </h1>
 
 <h4 align="center"> 
