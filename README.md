@@ -6,7 +6,7 @@
 </h1>
 
 <h4 align="center"> 
- 🟥🔄 Square To Circle
+ 🔄🟥 Square To Circle 🟥🔄
 </h4>
 
 <p align="center">
@@ -24,9 +24,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### **Layout**
 
 - **[HTML](https://www.w3schools.com/html/)**
-- **[Node](https://nodejs.org/en/)**
 - **[CSS](https://www.w3schools.com/css/)**
-- **[Js](https://www.w3schools.com/w3js/)**
 
 
 #### **Utilitários**
